@@ -1,2 +1,2 @@
 # urls_dl
-small downloader of .urls files
+small downloader of .urls files from ex.ua
